@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pawconnectapp-dev-154634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::590183866917:role/amplify-pawconnectapp-dev-154634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::590183866917:role/amplify-pawconnectapp-dev-154634-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pawconnectapp-dev-154634-deployment",
+      "UnauthRoleName": "amplify-pawconnectapp-dev-154634-unauthRole",
+      "StackName": "amplify-pawconnectapp-dev-154634",
+      "StackId": "arn:aws:cloudformation:us-east-1:590183866917:stack/amplify-pawconnectapp-dev-154634/c6d20600-d75c-11ee-8a4d-0a3fb48e5787",
+      "AmplifyAppId": "d1ada13y2d8v3z"
+    }
+  }
+}

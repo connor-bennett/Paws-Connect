@@ -1,10 +1,6 @@
 extends layout
 
-block content
-  h1= title
-  p.text-center Welcome to #{title}
-
-  button#buttonTest(onclick="night()") Click Me
+block content 
 
   h1.text-center Login 
     form(action="#", method="POST")
@@ -15,5 +11,4 @@ block content
       input(type="password", id="password", name="password", placeholder="Enter your password", required)
       br
       button(type="submit") Login
-
   
